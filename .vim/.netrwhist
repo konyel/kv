@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/data1/mm64/plancklin/QQMail/mmbiz/mmbizpassbook/base'
+let g:netrw_dirhist_2='/data1/mm64/plancklin/QQMail/mmbiz/mmbizpassbook/base/proto'
+let g:netrw_dirhist_3='/data1/mm64/plancklin/QQMail'
+let g:netrw_dirhist_4='/data1/mm64/plancklin/.vim'
+let g:netrw_dirhist_5='/home/konyel'
+let g:netrw_dirhist_6='/home/konyel/.vim'
+let g:netrw_dirhist_7='/home/konyel/.vim/doc'
