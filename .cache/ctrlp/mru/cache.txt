@@ -1,2 +1,0 @@
-/home/konyel/.vim/doc/supertab.txt
-/home/konyel/.vimrc
